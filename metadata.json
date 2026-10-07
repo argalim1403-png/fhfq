@@ -1,0 +1,6 @@
+{
+  "name": "Smart Attendance — Ақылды қатысу жүйесі",
+  "description": "11-сынып оқушыларына арналған жасанды интеллект міндеттерінің классификациясы мен сабаққа қатысу жүйесі",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
